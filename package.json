@@ -7,7 +7,10 @@
     "sortablejs": "^1.7.0"
   },
   "devDependencies": {},
-  "scripts": {},
+  "scripts": {
+    "npm@latest": "npm version patch && cnpm publish && git push && git push origin --tags",
+    "npm@beta": "npm version prerelease && npm publish --tag=beta && git push && git push origin --tags"
+  },
   "author": "",
   "license": "MIT"
 }
