@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "npm@latest": "npm version patch && cnpm publish && git push && git push origin --tags",
+    "npm@latest": "npm version patch && npm publish && git push && git push origin --tags",
     "npm@beta": "npm version prerelease && npm publish --tag=beta && git push && git push origin --tags"
   },
   "author": "",
