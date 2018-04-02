@@ -1,0 +1,13 @@
+{
+  "name": "vue-sortablejs",
+  "version": "1.0.0",
+  "description": "vue-sortablejs",
+  "main": "index.js",
+  "dependencies": {
+    "sortablejs": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}
