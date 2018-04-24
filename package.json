@@ -1,7 +1,7 @@
 {
-  "name": "vue-filter-sort",
+  "name": "vuejs-sortablejs",
   "version": "1.0.2",
-  "description": "vue-sortablejs",
+  "description": "vuejs-sortablejs",
   "main": "index.js",
   "dependencies": {
     "sortablejs": "^1.7.0"
